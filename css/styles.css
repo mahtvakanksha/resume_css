@@ -1,0 +1,33 @@
+body{
+   background-color:#E3F4F4;
+}
+
+hr{
+  border-style:none;
+    border-color:#526D82;
+    border-width:10px;
+    border-top-style:dotted;
+    width:7%;
+}
+.mine{
+  border-width:10px;
+ border-style :double;
+ border-radius:50px;
+}
+.no{
+  border-width:10px;
+ border-style :double;
+}
+#heading{
+  color:#245953;
+}
+#heading:hover{
+  color:#116D6E;
+}
+h1{
+  color:#116A7B;
+  font-style:italic;
+}
+h3{
+  color:#408E91;
+}
